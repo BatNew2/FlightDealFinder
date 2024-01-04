@@ -5,8 +5,8 @@ HEADER = {
 query = {
     "fly_from": "CGK",
     "fly_to": "NYC",
-    "date_from": f"20/6/2024",
-    "date_to": f"20/6/2024",
+    "date_from": f"11/6/2024",
+    "date_to": f"11/3/2024",
     "max_stopovers": 0,
     "limit": 2
 }
